@@ -37,9 +37,6 @@
 - Be well versed on the design guidelines for Android (https://developer.android.com/design/index.html).
 - You will need it to develop your own application.
 
-## Architecture
-- [MVVM](https://developer.android.com/jetpack/guide)
-
 ## Testing
 - JUnit, Mockito, Espresso.
 - [Test apps on Android](https://developer.android.com/training/testing)
@@ -60,6 +57,9 @@
 - APK Analyzer to analyze the size of the app by inspecting the APK content.
 - Realtime Profilers to analyze real-time statistics on CPU, memory, and network usage.
 
+## Architecture
+- [MVVM](https://developer.android.com/jetpack/guide)
+
 ## Libraries
 - Retrofit, Glide, Dagger, Picasso
 
@@ -67,7 +67,7 @@
 - Git
 
 ## Release
-- Target the highest api level you can get away with.
+- Target the highest API level you can get away with.
 - https://developer.android.com/distribute/best-practices/launch/launch-checklist
 
 ## Other Resources
