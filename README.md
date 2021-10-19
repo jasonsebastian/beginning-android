@@ -68,6 +68,7 @@
 
 ## Release
 - Target the highest API level you can get away with.
+- Use Image Asset to setup your app icon.
 - https://developer.android.com/distribute/best-practices/launch/launch-checklist
 
 ## Other Resources
