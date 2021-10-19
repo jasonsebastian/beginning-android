@@ -1,9 +1,9 @@
 # Beginning Android Developer
 
 ## Udacity Android courses
-- https://developer.android.com/courses/kotlin-bootcamp/overview
-- https://developer.android.com/courses/kotlin-android-fundamentals/overview
-- https://developer.android.com/courses/kotlin-android-advanced/overview
+- [Kotlin Bootcamp for Programmers](https://developer.android.com/courses/kotlin-bootcamp/overview)
+- [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
+- [Advanced Android in Kotlin](https://developer.android.com/courses/kotlin-android-advanced/overview)
 
 ## Develop An Application
 - Pick the smallest app you can think of and get it done.
@@ -69,7 +69,7 @@
 ## Release
 - Target the highest API level you can get away with.
 - Use Image Asset to setup your app icon.
-- https://developer.android.com/distribute/best-practices/launch/launch-checklist
+- Check out the [launch checklist](https://developer.android.com/distribute/best-practices/launch/launch-checklist).
 
 ## Other Resources
 - Books: Pragmatic Programmer, Mark Murphy's books.
